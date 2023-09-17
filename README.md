@@ -1,10 +1,10 @@
 # StackOverflow-2023-Survey-Analysis
 
 ### Table of Contents
-1- Installation
-2 - Project Motivation
-3 - Results
-4 - Licensing, Authors, and Acknowledgements
+1- Installation;
+2 - Project Motivation;
+3 - Results;
+4 - Licensing, Authors, and Acknowledgements;
 
 1 - Installation
 The code runs in Python and the libraries Pandas, Numpy, Matplotlib were used through the analysis.
